@@ -1,0 +1,16 @@
+D:\Lab_LT_CSDL\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+D:\Lab_LT_CSDL\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+D:\Lab_LT_CSDL\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+D:\Lab_LT_CSDL\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+D:\Lab_LT_CSDL\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+D:\Lab_LT_CSDL\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+D:\Lab_LT_CSDL\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+D:\Lab_LT_CSDL\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+D:\Lab_LT_CSDL\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+D:\Lab_LT_CSDL\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+D:\Lab_LT_CSDL\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.fOODInfoForm.resources
+D:\Lab_LT_CSDL\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frmOrdersForm.resources
+D:\Lab_LT_CSDL\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frmNewFood.resources
+D:\Lab_LT_CSDL\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frmBillDetails.resources
+D:\Lab_LT_CSDL\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frmAccountForm.resources
+D:\Lab_LT_CSDL\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frmRoloAccount.resources
